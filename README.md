@@ -58,6 +58,7 @@ th	{
 	}
 </style>
 </head>
+<meta name="google-site-verification" content="qKApVt3Jf_jEgg2e670Wu9YViJ3c5AOwVkJW0cOEk2M" />
 <body>
 <header>
  <img scr="logo.school" alt="schopol logo" >
